@@ -29,54 +29,54 @@ package Leetcode_sols;
  * }
  */
 
-public class Find_in_Mountain_Array {
-    public int findInMountainArray(int target, MountainArray mountainArr) {
-        int largest = largest_no_index(mountainArr);
-        int ans = -1;
-        ans = search(target,0,largest,mountainArr,true);
-        if(ans == -1){
-            ans = search(target,largest+1,mountainArr.length()-1,mountainArr,false);
-        }
-        return ans;
-    }
-    public int largest_no_index(MountainArray mountainArr){
-        int start = 0;
-        int end = mountainArr.length()-1;
-        while(start!=end){
-            int mid = start + (end - start)/2;
-            if(mountainArr.get(mid)>mountainArr.get(mid+1)){
-                end = mid;
-            }
-            else{
-                start = mid + 1;
-            }
-        }
-        return start;
-    }
-    public int search(int target,int start,int end, MountainArray mountainArr,boolean check){
-        while(start<=end){
-            int mid = start + (end-start)/2;
-            if(mountainArr.get(mid)<target){
-                if(check){
-                    start = mid + 1;
-                }
-                else{
-                    end = mid - 1;
-                }
-
-            }
-            else if(mountainArr.get(mid)>target){
-                if(check){
-                    end = mid - 1;
-                }
-                else{
-                    start = mid + 1;
-                }
-
-            }else{
-                return mid;
-            }
-        }
-        return -1;
-    }
-}
+//public class Find_in_Mountain_Array {
+//    public int findInMountainArray(int target, MountainArray mountainArr) {
+//        int largest = largest_no_index(mountainArr);
+//        int ans = -1;
+//        ans = search(target,0,largest,mountainArr,true);
+//        if(ans == -1){
+//            ans = search(target,largest+1,mountainArr.length()-1,mountainArr,false);
+//        }
+//        return ans;
+//    }
+//    public int largest_no_index(MountainArray mountainArr){
+//        int start = 0;
+//        int end = mountainArr.length()-1;
+//        while(start!=end){
+//            int mid = start + (end - start)/2;
+//            if(mountainArr.get(mid)>mountainArr.get(mid+1)){
+//                end = mid;
+//            }
+//            else{
+//                start = mid + 1;
+//            }
+//        }
+//        return start;
+//    }
+//    public int search(int target,int start,int end, MountainArray mountainArr,boolean check){
+//        while(start<=end){
+//            int mid = start + (end-start)/2;
+//            if(mountainArr.get(mid)<target){
+//                if(check){
+//                    start = mid + 1;
+//                }
+//                else{
+//                    end = mid - 1;
+//                }
+//
+//            }
+//            else if(mountainArr.get(mid)>target){
+//                if(check){
+//                    end = mid - 1;
+//                }
+//                else{
+//                    start = mid + 1;
+//                }
+//
+//            }else{
+//                return mid;
+//            }
+//        }
+//        return -1;
+//    }
+//}
