@@ -1,4 +1,4 @@
-package Leetcode_sols;
+package Leetcode_sols.Binary_Search;
 
 public class Find_Smallest_Letter_Greater_Than_Target {
     public char nextGreatestLetter(char[] letters, char target) {

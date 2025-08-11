@@ -1,4 +1,4 @@
-package Leetcode_sols;
+package Leetcode_sols.Binary_Search;
 
 public class Peak_Index_in_a_Mountain_Array {
     public int peakIndexInMountainArray(int[] arr) {

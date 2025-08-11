@@ -1,4 +1,4 @@
-package Leetcode_sols;
+package Leetcode_sols.Binary_Search;
 
 public class split_array_largest_sum {
 //  **TIME LIMIT EXCEEDED ERROR**

@@ -1,4 +1,4 @@
-package Leetcode_sols;
+package Leetcode_sols.Binary_Search;
 
 public class Find_Peak_Element {
     public int findPeakElement(int[] nums) {

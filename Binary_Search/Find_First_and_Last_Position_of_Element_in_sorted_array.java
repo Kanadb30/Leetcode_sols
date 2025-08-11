@@ -1,4 +1,4 @@
-package Leetcode_sols;
+package Leetcode_sols.Binary_Search;
 
 public class Find_First_and_Last_Position_of_Element_in_sorted_array {
     public int[] searchRange(int[] nums, int target) {

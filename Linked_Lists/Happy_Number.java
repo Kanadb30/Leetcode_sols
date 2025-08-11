@@ -1,4 +1,4 @@
-package Leetcode_sols;
+package Leetcode_sols.Linked_Lists;
 
 public class Happy_Number {
     int sqr(int a) {

@@ -1,4 +1,4 @@
-package Leetcode_sols;
+package Leetcode_sols.Linked_Lists;
 
 public class Middle_of_the_linked_list {
     public ListNode middleNode(ListNode head) {

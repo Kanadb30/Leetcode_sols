@@ -1,4 +1,4 @@
-package Leetcode_sols;
+package Leetcode_sols.Binary_Search;
 
 public class Search_in_Rotated_Sorted_Array {
     public int search(int[] nums, int target) {

@@ -1,4 +1,4 @@
-package Leetcode_sols;
+package Leetcode_sols.Linked_Lists;
 /**
  * Definition for singly-linked list.
  * class ListNode {
