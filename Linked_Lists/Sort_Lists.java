@@ -11,6 +11,69 @@ package Leetcode_sols.Linked_Lists;
  */
 
 public class Sort_Lists {
+
+    // ---(BASIC METHOD BUBBLE SORT)---
+
+
+//    public ListNode sortList(ListNode head) {
+//        if(head == null || head.next == null){
+//            return head;
+//        }
+//        ListNode temp = head;
+//        int row = -1;
+//        while(temp != null){
+//            temp = temp.next;
+//            row++;
+//        }
+//        head = bubble(row,0,head);
+//        return head;
+//
+//    }
+//    public ListNode get(int index,ListNode head){
+//        ListNode temp = head;
+//        while(index-- > 0 ){
+//            temp = temp.next;
+//        }
+//        return temp;
+//    }
+//    public ListNode bubble(int row,int col,ListNode head){
+//        if (row == 0){
+//            return head;
+//        }
+//        if(row > col){
+//            ListNode first = get(col,head);
+//            ListNode second = get(col+1,head);
+//
+//            if(first.val > second.val){
+//                if(first == head){
+//                    first.next = second.next;
+//                    second.next = first;
+//                    head = second;
+//                }else if(second.next == null){
+//                    ListNode prev = get(col-1,head);
+//                    prev.next = second;
+//                    second.next = first;
+//                    first.next = null;
+//                }else {
+//                    ListNode prev = get(col-1,head);
+//                    prev.next = second;
+//                    first.next = second.next;
+//                    second.next = first;
+//                }
+//
+//            }
+//            head = bubble(row , col+1,head);
+//        }
+//        if(row <= col){
+//            head = bubble(row-1,0,head);
+//        }
+//        return head;
+//    }
+
+
+
+  // ---OPTIMIZED METHOD (MERGE SORT)---
+
 //    public ListNode sortList(ListNode head) {
 //        if(head == null || head.next == null){
 //            return head;
