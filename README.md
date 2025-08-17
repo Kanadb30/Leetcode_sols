@@ -3,7 +3,7 @@
 This repository contains my personal solutions for various LeetCode problems, implemented in Java. The problems are grouped by topic and link directly to the official LeetCode page and the corresponding solution file in this repository.
 
 ---
-# Total count : `25`
+# Total count : `26`
 
 ## 📁 Miscellaneous
 
@@ -50,3 +50,9 @@ This repository contains my personal solutions for various LeetCode problems, im
 | [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | 🟢 Easy | [Link](Linked_Lists/Middle_of_the_linked_list.java) |
 
 ---
+
+## 📁 Stacks and Queues
+
+| Problem | Difficulty | Solution |
+| :--- | :--- | :--- |
+| [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/) | 🟢 Easy | [Link](Stacks_and_Queues/Implement_Queue_Using_Stacks.java) |
