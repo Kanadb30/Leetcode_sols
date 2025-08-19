@@ -3,7 +3,7 @@
 This repository contains my personal solutions for various LeetCode problems, implemented in Java. The problems are grouped by topic and link directly to the official LeetCode page and the corresponding solution file in this repository.
 
 ---
-# Total count : `26`
+# Total count : `27`
 
 ## 📁 Miscellaneous
 
@@ -55,4 +55,5 @@ This repository contains my personal solutions for various LeetCode problems, im
 
 | Problem | Difficulty | Solution |
 | :--- | :--- | :--- |
+| [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | 🟢 Easy | [Link](Stacks_and_Queues/Valid_Parantheses.java) |
 | [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/) | 🟢 Easy | [Link](Stacks_and_Queues/Implement_Queue_Using_Stacks.java) |
