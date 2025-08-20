@@ -33,21 +33,22 @@ This repository contains my personal solutions for various LeetCode problems, im
 
 ## 📁 Linked Lists
 
-| Problem | Difficulty | Solution |
-| :--- | :--- | :--- |
-| [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | 🟢 Easy | [Link](Linked_Lists/Merge_Two_Sorted_Lists.java) |
-| [25. Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | 🔴 Hard | [Link](Linked_Lists/Reverse_Node_in_K_Group.java) |
-| [61. Rotate List](https://leetcode.com/problems/rotate-list/) | 🟠 Medium | [Link](Linked_Lists/Rotate_list.java) |
+| Problem | Difficulty | Solution                                                     |
+| :--- | :--- |:-------------------------------------------------------------|
+| [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) | 🟠 Medium | [Link](Linked_Lists/Add_Two_Numbers.java)                    |
+| [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | 🟢 Easy | [Link](Linked_Lists/Merge_Two_Sorted_Lists.java)             |
+| [25. Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | 🔴 Hard | [Link](Linked_Lists/Reverse_Node_in_K_Group.java)            |
+| [61. Rotate List](https://leetcode.com/problems/rotate-list/) | 🟠 Medium | [Link](Linked_Lists/Rotate_list.java)                        |
 | [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | 🟢 Easy | [Link](Linked_Lists/Remove_Duplicates_from_Sorted_List.java) |
-| [92. Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | 🟠 Medium | [Link](Linked_Lists/Reverse_Linked_lists_II.java) |
-| [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | 🟢 Easy | [Link](Linked_Lists/Linked_List_Cycle.java) |
-| [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | 🟠 Medium | [Link](Linked_Lists/Linked_List_Cycle_II.java) |
-| [143. Reorder List](https://leetcode.com/problems/reorder-list/) | 🟠 Medium | [Link](Linked_Lists/Reorder_list.java) |
-| [148. Sort List](https://leetcode.com/problems/sort-list/) | 🟠 Medium | [Link](Linked_Lists/Sort_Lists.java) |
-| [202. Happy Number](https://leetcode.com/problems/happy-number/) | 🟢 Easy | [Link](Linked_Lists/Happy_Number.java) |
-| [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | 🟢 Easy | [Link](Linked_Lists/Reverse_Linked_lists.java) |
-| [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | 🟢 Easy | [Link](Linked_Lists/Pallindrome_Linked_lists.java) |
-| [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | 🟢 Easy | [Link](Linked_Lists/Middle_of_the_linked_list.java) |
+| [92. Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | 🟠 Medium | [Link](Linked_Lists/Reverse_Linked_lists_II.java)            |
+| [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | 🟢 Easy | [Link](Linked_Lists/Linked_List_Cycle.java)                  |
+| [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | 🟠 Medium | [Link](Linked_Lists/Linked_List_Cycle_II.java)               |
+| [143. Reorder List](https://leetcode.com/problems/reorder-list/) | 🟠 Medium | [Link](Linked_Lists/Reorder_list.java)                       |
+| [148. Sort List](https://leetcode.com/problems/sort-list/) | 🟠 Medium | [Link](Linked_Lists/Sort_Lists.java)                         |
+| [202. Happy Number](https://leetcode.com/problems/happy-number/) | 🟢 Easy | [Link](Linked_Lists/Happy_Number.java)                       |
+| [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | 🟢 Easy | [Link](Linked_Lists/Reverse_Linked_lists.java)               |
+| [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | 🟢 Easy | [Link](Linked_Lists/Pallindrome_Linked_lists.java)           |
+| [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | 🟢 Easy | [Link](Linked_Lists/Middle_of_the_linked_list.java)          |
 
 ---
 
