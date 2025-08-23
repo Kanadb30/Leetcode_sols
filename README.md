@@ -3,7 +3,7 @@
 This repository contains my personal solutions for various LeetCode problems, implemented in Java. The problems are grouped by topic and link directly to the official LeetCode page and the corresponding solution file in this repository.
 
 ---
-# Total count : `28`
+# Total count : `29`
 
 ## 📁 Miscellaneous
 
@@ -12,6 +12,14 @@ This repository contains my personal solutions for various LeetCode problems, im
 | [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | 🟢 Easy | [Link](RomanToInteger.java) |
 | [1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | 🟢 Easy | [Link](Problem_1281.java) |
 | [1672. Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | 🟢 Easy | [Link](Richest_Customer_Wealth.java) |
+
+---
+
+## 📁 Recursion
+
+| Problem                                                                                             | Difficulty | Solution                                                          |
+|:----------------------------------------------------------------------------------------------------| :--- |:------------------------------------------------------------------|
+| [1342. Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/description/) | 🟢 Easy | [Link](Recursion/Number_of_Steps_to_Reduce_a_Number_to_Zero.java) |
 
 ---
 
