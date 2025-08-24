@@ -3,7 +3,7 @@
 This repository contains my personal solutions for various LeetCode problems, implemented in Java. The problems are grouped by topic and link directly to the official LeetCode page and the corresponding solution file in this repository.
 
 ---
-# Total count : `35`
+# Total count : `36`
 
 ## 📁 Miscellaneous
 
