@@ -17,14 +17,15 @@ This repository contains my personal solutions for various LeetCode problems, im
 
 ## 📁 Recursion
 
-| Problem                                                                                             | Difficulty | Solution                                                          |
-|:----------------------------------------------------------------------------------------------------| :--- |:------------------------------------------------------------------|
-| [231. Power of Two](https://leetcode.com/problems/power-of-two/description/) | 🟢 Easy | [Link](Recursion/Power_of_Two.java)                               |
-| [326. Power of Three](https://leetcode.com/problems/power-of-three/) | 🟢 Easy | [Link](Recursion/Power_of_Three.java) |
-| [342. Power of Four](https://leetcode.com/problems/power-of-four/description/) | 🟢 Easy | [Link](Recursion/Power_of_Four.java) |
-| [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | 🟢 Easy | [Link](Recursion/Fibonacci_Number.java)                           |
-| [704. Binary Search](https://leetcode.com/problems/binary-search/description/) | 🟢 Easy | [Link](Recursion/Binary_Search.java)                              |
-| [1342. Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/description/) | 🟢 Easy | [Link](Recursion/Number_of_Steps_to_Reduce_a_Number_to_Zero.java) |
+| Problem                                                                                                                                   | Difficulty | Solution                                                                 |
+|:------------------------------------------------------------------------------------------------------------------------------------------| :--- |:-------------------------------------------------------------------------|
+| [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)                                | 🟠 Medium | [Link](Recursion/Letter_Combinations_of_a_Phone_Number.java)             |
+| [231. Power of Two](https://leetcode.com/problems/power-of-two/description/)                                                              | 🟢 Easy | [Link](Recursion/Power_of_Two.java)                                      |
+| [326. Power of Three](https://leetcode.com/problems/power-of-three/)                                                                      | 🟢 Easy | [Link](Recursion/Power_of_Three.java)                                    |
+| [342. Power of Four](https://leetcode.com/problems/power-of-four/description/)                                                            | 🟢 Easy | [Link](Recursion/Power_of_Four.java)                                     |
+| [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)                                                                  | 🟢 Easy | [Link](Recursion/Fibonacci_Number.java)                                  |
+| [704. Binary Search](https://leetcode.com/problems/binary-search/description/)                                                            | 🟢 Easy | [Link](Recursion/Binary_Search.java)                                     |
+| [1342. Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/description/) | 🟢 Easy | [Link](Recursion/Number_of_Steps_to_Reduce_a_Number_to_Zero.java)        |
 
 ---
 
