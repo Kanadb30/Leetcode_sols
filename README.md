@@ -3,7 +3,7 @@
 This repository contains my personal solutions for various LeetCode problems, implemented in Java. The problems are grouped by topic and link directly to the official LeetCode page and the corresponding solution file in this repository.
 
 ---
-# Total count : `38`
+# Total count : `39`
 
 ## 📁 Miscellaneous
 
@@ -21,6 +21,7 @@ This repository contains my personal solutions for various LeetCode problems, im
 |:------------------------------------------------------------------------------------------------------------------------------------------------| :--- |:------------------------------------------------------------------|
 | [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)                               | 🟠 Medium | [Link](Recursion/Letter_Combinations_of_a_Phone_Number.java)      |
 | [37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)                                                                        | 🔴 Hard | [Link](Recursion/Sudoku_Solver.java)                    |
+| [39. Combination Sum](https://leetcode.com/problems/combination-sum/description/)                               | 🟠 Medium | [Link](Recursion/Combination_Sum.java)      |
 | [51. N-Queens](https://leetcode.com/problems/n-queens/description/)                                                                             | 🔴 Hard | [Link](Recursion/N_Queens.java)                    |
 | [231. Power of Two](https://leetcode.com/problems/power-of-two/description/)                                                                    | 🟢 Easy | [Link](Recursion/Power_of_Two.java)                               |
 | [326. Power of Three](https://leetcode.com/problems/power-of-three/)                                                                            | 🟢 Easy | [Link](Recursion/Power_of_Three.java)                             |
